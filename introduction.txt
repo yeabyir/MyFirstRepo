@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+My name is Yeabsira Yirdaw, an aspiring in data scientist and cybersecurity from Ethiopia.
+I'm currently in a gap year, actively preparing for university and building my skills through hands-on projects and online learning.
+I graduated highscool from Bahir Dar Academy and am passionate about using technology and data to solve real-world problems, 
+particularly in areas like urbanization, tourism, and public health.
