@@ -1,0 +1,2 @@
+One thing I've learned in this course is how to use Git and GitHub for version control.  
+I now understand how to clone repositories, commit changes, and push updates to remote repositories.  
